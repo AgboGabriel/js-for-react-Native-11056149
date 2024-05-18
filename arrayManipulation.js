@@ -23,3 +23,4 @@ function formatArrayStrings(arrString,arr){
 formatArrayStrings(["Key","dabu","nein"],[1,2,4])
 
 // console.log("hello world")
+export { formatArrayStrings };
